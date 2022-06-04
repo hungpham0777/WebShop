@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>helo</h1>
 <% response.sendRedirect(request.getContextPath()+"/Trangchu"); %>
 </body>
 </html>
